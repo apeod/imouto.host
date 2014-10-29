@@ -282,6 +282,7 @@
 
 #localhost START
 127.0.0.1	localhost
+192.168.0.3	cs
 ::1	localhost
 #localhost END
 
